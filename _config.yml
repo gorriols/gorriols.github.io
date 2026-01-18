@@ -21,9 +21,10 @@
 title: Gerard Orriols
 email: go262@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal webpage of Gerard Orriols, mathematician, currently a
+  postdoc at the University of Cambridge. I am interested in
+  geometric analysis, calculus of variations, geometric measure theory,
+  and neighboring fields like symplectic geometry and gauge theory.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 domain: gorriols.github.io

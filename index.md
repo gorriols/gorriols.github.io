@@ -25,7 +25,7 @@ Email: <tt>go262@cam.ac.uk</tt>
 
 ## Teaching
 
-In Lent term 2026 I will be teaching the Part III course on Elliptic Partial Differential Equations, together with [André Guerra](https://www.dpmms.cam.ac.uk/~adblg2/).
+In Lent term 2026 I am teaching the Part III course on Elliptic Partial Differential Equations, together with [André Guerra](https://www.dpmms.cam.ac.uk/~adblg2/).
 
 ## Publications and preprints
 
