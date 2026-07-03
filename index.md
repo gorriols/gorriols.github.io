@@ -30,7 +30,7 @@ In Lent term 2026 I am teaching the Part III course on Elliptic Partial Differen
 ## Publications and preprints
 
 *  [Minimizing the Gauss map area of surfaces in $\mathbb{S}^3$](https://arxiv.org/abs/2506.05141) (with [Tristan Rivière](https://people.math.ethz.ch/~triviere/)), preprint (2025).
-*  [Existence and partial regularity of Legendrian area-minimizing currents](https://arxiv.org/abs/2406.09378), preprint (2024).
+*  [Existence and partial regularity of Legendrian area-minimizing currents](https://link.springer.com/article/10.1007/s00205-026-02186-4), _Arch. Rational Mech. Anal._ **250**, 64 (2026).
 *  [A variational construction of Hamiltonian stationary surfaces with isolated Schoen–Wolfson conical singularities](https://onlinelibrary.wiley.com/doi/10.1002/cpa.22220) (with [Filippo Gaia](https://sites.google.com/view/filippo-gaia/home-page) and [Tristan Rivière](https://people.math.ethz.ch/~triviere/)), _Comm. Pure Appl. Math._ **77** (2024), no. 12, 4390-4431.
 *  [Any three eigenvalues do not determine a triangle](https://www.sciencedirect.com/science/article/pii/S0022039620305817?via%3Dihub) (with [Javier Gómez-Serrano](https://sites.brown.edu/jgs/)), _J. Differential Equations_ **275** (2021), 920-938.
 
